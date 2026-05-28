@@ -29,7 +29,7 @@ Firmware do controlador principal — Somfy RTS + controles RF de protocolo aber
 
 > ⚠️ **Para placas com firmware ≤ v1.4.2:** o nome do arquivo precisa conter `.ino.` para passar pela validação antiga. Renomeie `QARFHub.littlefs.bin` para `QARFHub.ino.littlefs.bin` antes do upload (já vem com esse nome nas releases v1.5.0+).
 
-## 🔵 Cubo Tuya (QARF8)
+## 🔵 Módulo Tuya (QARF8)
 
 Firmware do bridge que conecta o QARFHub à nuvem Tuya.
 
